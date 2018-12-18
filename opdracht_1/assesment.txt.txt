@@ -1,0 +1,6 @@
+1. Design a program thaat adds two numbers
+2. Design a program implementing a simple calculator, witch is able to preform addition, substraction, multiplication and division
+3. Design a program that checks (and prints on the screen) whether a number entered by the user is negative, positive or zero
+4. Design a program that chekcs(and prints on the screen) whether a number entered by the user is even or odd
+5. Gesign a program that finds(and prints on the screen) the largest amongst three number
+6. Design a program that takes as input from the user a list of then integer numbers and counts how many times a specific number occurs in this list.
