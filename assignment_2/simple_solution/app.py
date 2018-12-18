@@ -1,5 +1,22 @@
-aantal_personen = float(input("number of persons"))
-budget = float(input("budget?"))
+while True:
+    try:
+        aantal_personen = float(input("number of persons? "))
+    except ValueError:
+        print("I didn't understand that, please try again")
+        continue
+    else:
+        break
+
+while True:
+    try:
+        budget = float(input("what is your budget? "))
+    except ValueError:
+        print("I didn't understand that, please try again")
+        continue
+    else:
+        break
+
+
 
 number_of_chocolat_delight = aantal_personen // 10
 left_over_chocolat_delight = 10 - (aantal_personen % 10)
