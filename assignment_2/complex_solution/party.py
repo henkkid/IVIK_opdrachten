@@ -6,10 +6,12 @@ class Party:
         self.left_over_money = budget
         self.left_over_pieces = 0
         self.cake_count = 0
+        self.cost = 0
 
     def reset(self):
         self.left_over_pieces = 0
         self.cake_count = 0
+        self.cost = 0
 
     def cake(self, pie):
         self.pie = pie

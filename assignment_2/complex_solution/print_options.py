@@ -19,6 +19,8 @@ class Print_options:
         if party.cake_count > 0:
             print(f"De taart die u kunt nemen is: {party.pie.name}")
             print(f"U heeft hiervoor {party.cake_count} cakes voor nodig")
-            print(f"U houd {party.left_over_piecese} stukken over en {party.left_over_money} aan geld")
+            print(f"Dit kost u: {party.cost}")
+            print(f"Uw budget was: {party.budget}")
+            print(f"U houd {party.left_over_pieces} stukken over en {party.left_over_money} aan geld")
         else:
             print("er is geen taart voor u beschikbaar")
