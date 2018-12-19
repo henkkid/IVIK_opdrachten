@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cf081bd-87eb-40ee-9d4c-37f2f63a4568" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../complex_solution/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../complex_solution/controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complex_solution/party.py" beforeDir="false" afterPath="$PROJECT_DIR$/../complex_solution/party.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../complex_solution/print_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/../complex_solution/print_options.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

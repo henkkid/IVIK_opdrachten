@@ -12,9 +12,6 @@ class Print_options:
 
         return awnser
 
-    def print_text(self, text):
-        print(text)
-
     def print_result(self, party):
         if party.cake_count > 0:
             print(f"De taart die u kunt nemen is: {party.pie.name}")
